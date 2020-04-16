@@ -58,3 +58,5 @@
 데이터베이스 설계 후 데이터베이스 관리 시스템을 사용해야 한다. 여러가지 데이터베이스 관리 시스템 선택 사항(DBMS)이 존재한다.
 
 데이터베이스 관리 시스템으로 현재에는 많이 사용하지 않으나 IBM 메인프레임 환경 하에서 운영되는 'IMS'가 있다. IMS는 정보 관리 시스템(Information Management System)의 약자로 DBMS와 DC 기능을 수행한다. IMS가 관리하는 DB 종류에는 'DEDB'와 'MSDB'가 있다. DEDB는 Data Entry DB로 전통적인 계층형 DB이며 MSDB는 주기억 DB로 시스템 가동시 주 메모리에 상주하는 DB로 빠른 접근이 필요한 업무에 사용된다. 다만, 접근 속도가 매우 빠른 반면 메모리에 상주하기 때문에 용량 및 구조에 제한이 많다.
+
+출처 : https://ko.wikipedia.org/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4
